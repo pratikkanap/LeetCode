@@ -21,4 +21,12 @@
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/pratikkanap/LeetCode/tree/master/0704-binary-search) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/pratikkanap/LeetCode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/pratikkanap/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
