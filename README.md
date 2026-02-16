@@ -19,6 +19,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pratikkanap/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pratikkanap/LeetCode/tree/master/0027-remove-element) |
+| [0344-reverse-string](https://github.com/pratikkanap/LeetCode/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pratikkanap/LeetCode/tree/master/0020-valid-parentheses) |
+| [0344-reverse-string](https://github.com/pratikkanap/LeetCode/tree/master/0344-reverse-string) |
 ## Stack
 |  |
 | ------- |
