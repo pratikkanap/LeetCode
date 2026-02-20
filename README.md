@@ -9,11 +9,13 @@
 | [0027-remove-element](https://github.com/pratikkanap/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/pratikkanap/LeetCode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/pratikkanap/LeetCode/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/pratikkanap/LeetCode/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/pratikkanap/LeetCode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pratikkanap/LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/pratikkanap/LeetCode/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,4 +40,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/pratikkanap/LeetCode/tree/master/0136-single-number) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/pratikkanap/LeetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
