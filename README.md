@@ -41,6 +41,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/pratikkanap/LeetCode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/pratikkanap/LeetCode/tree/master/0136-single-number) |
 ## Sorting
 |  |
@@ -55,4 +56,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pratikkanap/LeetCode/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/pratikkanap/LeetCode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
