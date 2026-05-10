@@ -59,6 +59,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/pratikkanap/LeetCode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/pratikkanap/LeetCode/tree/master/0029-divide-two-integers) |
 ## Database
 |  |
